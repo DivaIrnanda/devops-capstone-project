@@ -1,3 +1,11 @@
+---
+name: User Story Template
+about: Template untuk membuat cerita pengguna baru
+title: ''
+labels: ''
+assignees: ''
+---
+
 **As a** client aplikasi e-commerce (frontend atau mikroservis lain)  
 **I need** sebuah REST API endpoint untuk membaca detail akun pelanggan berdasarkan ID  
 **So that** saya bisa menampilkan atau memproses informasi profil pelanggan tersebut di sistem  
